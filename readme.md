@@ -7,9 +7,9 @@ This is a 'binding' smart contract. In this case anything written and executed i
 
 What the contract currnetly do :
 
-*It only accepts input from 2 only sources the user and the proffesional (Access control)
-*It returns funds if invalid input is accepted
-*You can cancel the contract if you have second thoughts
+*It only accepts input from 2 only sources the user and the proffesional (Access control).
+*It returns funds if invalid input is accepted.
+*You can cancel the contract if you have second thoughts.
 
 
 Will be updated soon
