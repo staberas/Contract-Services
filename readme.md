@@ -13,4 +13,8 @@ What the contract currnetly do :
 * You can cancel the contract if you have second thoughts.
 
 
+##The Interface
+![alt text](https://github.com/staberas/Contract-Services/blob/master/AbA4D3498a9F32e69c323B285a8f87338719F83B.png "Contract interface")
+
+
 Will be updated soon...
